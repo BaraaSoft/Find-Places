@@ -1,4 +1,4 @@
-# Find-Places
+# Find Places Android App
 This is location base android app allows you to find nearby places and navigate to them 
 
 ## How to use the app:
